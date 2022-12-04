@@ -1,1 +1,1 @@
-# Flipper-Zero-Pager-BruteForce
+Educational purpose!!!
